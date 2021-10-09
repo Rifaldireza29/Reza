@@ -1,0 +1,21 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.demo-grid {
+  background-color: gray;
+}
+
+.demo-grid .mdl-cell {
+  background-color: beige;
+  padding: 1.5em 0.5em 0.5em;
+}
+
+.mdl-card {
+  margin: auto;
+}
+
+.mdl-layout {
+  margin-top: 30px;
+}
